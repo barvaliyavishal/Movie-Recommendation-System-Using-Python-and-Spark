@@ -1,5 +1,5 @@
 # Movie-Recommendation-System-Using-Python-and-Spark
-I dig deep into ALS collaberative recommendation engine by using Spark MLlib and give recommendation with user based movie recommendation with a scalable matrix factorization technique.
+#### I dig deep into collaberative recommendation engine by using Spark, Python, Pandas and scikit learn to give recommendation with user based movie recommendation with a scalable matrix vectorizer technique.
 ### Step1 
 First ingested datasets using spark Dataframes, namely movies and ratings and conduct a number of data explorations on these data to get some basic information, such as number of users, number of movies, number of ratings per users and per movies respectively, and distribution of movies on different genres.
 #### Movie Dataset Sample
