@@ -15,9 +15,13 @@ After Ingesting Dataset into Spark Dataframe We cleaned data using Python Regex 
 ![image](https://user-images.githubusercontent.com/69915064/215247993-58e0fdf7-39d7-47a0-8017-19ac064cec7b.png)
 
 ### Step 3
+![image](https://user-images.githubusercontent.com/69915064/215248315-ecce7657-5bc2-4f00-9121-1ff44d63cadd.png)
+
 Then we are creating search engine using scikitlearn library to vectorize our movie dataset to make it ready for search engine
 
 #### Finaly...
+![image](https://user-images.githubusercontent.com/69915064/215248272-3484a328-e19b-4f3f-b027-24dc24b8997b.png)
+
 Then we have created Recommendation Engine using collaborative filtering where if we enter name of any movie which we likes then engine will recommend to us some top movies which we me may like to watch
 
 ![image](https://user-images.githubusercontent.com/69915064/215248175-b324c724-d660-4680-b2c8-0f3a18fa3f2e.png)
